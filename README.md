@@ -1,2 +1,3 @@
 # SEG_2505
-Projet du cours groupe 30
+Projet du cours  SEG_2505
+groupe 30
